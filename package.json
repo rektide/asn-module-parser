@@ -1,0 +1,18 @@
+{
+	"name": "asn-module-parser",
+	"version": "1.0.0",
+	"description": "",
+	"main": "asn-module-parser.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/asn-module-parser"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"antlr4": "^4.5.2"
+	}
+}
